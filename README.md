@@ -16,7 +16,8 @@
     * Why not?
 
 ```text
-ANSWER Why not? HERE
+This is because even the long data type which is literally used for long numbers, is still only 20 digits long.
+This creates either stack overflow errors or other nonsense like negative numbers will be thrown out.
 ```
 
 3. Convert factorial so that it performs its calculation using **BigIntegers** and returns a **BigInteger** as a result.
@@ -26,7 +27,9 @@ ANSWER Why not? HERE
     * How high can you make it go?
 
 ```text
-ANSWER #4 HERE
+I made it go over 9000, which definitely pissed Vegeta off. This also happened to be a good stopping point
+for my computer with a mid range amd chipset. It began to slow down and do just one factorial per step 
+towards the end of the roughly 10 minute long sequence upon starting the Java code.
 ```
 
 ## Submission
